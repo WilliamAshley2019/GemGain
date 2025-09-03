@@ -57,7 +57,7 @@ CMake (recommended) or a supported IDE (e.g., Xcode, Visual Studio).
 
 Building the Plugin
 Clone this repository:
-git clone https://github.com/your-username/SimpleGain.git
+git clone https://github.com/WilliamAshley2019/SimpleGain.git
 
 Follow the JUCE instructions to set up your project with the VST3 SDK.
 
